@@ -79,5 +79,5 @@ Saludos
 Instalador Setup
 ----------------
 
-Criado um Instalador/Setup testado no Windows 10 já configurado para o PS3SDKv2 rodar direto em c:\PS3SDKv2 
-Cria um atalho para o msys no desktop, só clicar e compilar seus homebrews!
+Criado um Instalador/Setup testado no Windows 10 já configurado para o PSDK3v2 rodar direto em c:\PSDK3v2 
+Cria um atalho para o msys no desktop, só clicar e compilar seus PS3 homebrews!
