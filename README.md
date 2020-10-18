@@ -75,3 +75,9 @@ de Tiny3D y la PS3 Soundlib y las librerías necesarias
 Espero que estas herramientas os sean útiles en vuestros proyectos.
 
 Saludos
+
+Instalador Setup
+----------------
+
+Criado um Instalador/Setup testado no Windows 10 já configurado para o PS3SDKv2 rodar direto em c:\PS3SDKv2 
+Cria um atalho para o msys no desktop, só clicar e compilar seus homebrews!
